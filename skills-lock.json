@@ -1,16 +1,28 @@
 {
   "version": 1,
   "skills": {
+    "animation-vocabulary": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-vocabulary/SKILL.md"
+    },
     "design-taste-frontend": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
       "skillPath": "skills/taste-skill/SKILL.md",
       "computedHash": "899b84384f74f540ea5284d9b2e9234e050998b42eacc805410b518d4226c0b3"
     },
-    "animation-vocabulary": {
-      "source": "emilkowalski/skills",
+    "zion-baas": {
+      "source": "functorz-tech/zion-baas-skill",
       "sourceType": "github",
-      "skillPath":"skills/animation-vocabulary/SKILL.md"
+      "skillPath": "SKILL.md",
+      "computedHash": "cc80d5f28178197f3fcc7b8f2e356a0f316992630008f61372e5b7b0cb0b2daf"
+    },
+    "zion-frontend-dev-skill": {
+      "source": "timqin-m/zion-frontend-dev-skill",
+      "sourceType": "github",
+      "skillPath": "zion-frontend-dev-skill/SKILL.md",
+      "computedHash": "50a5326744def1bb18799f0c21842467af4a83ffb7858c607c5853a68d5ff9ac"
     }
   }
 }
